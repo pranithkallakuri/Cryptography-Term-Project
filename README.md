@@ -1,8 +1,6 @@
 # Cryptography-Term-Project
 1. Implementation of a Basic Blockchain in Java. 
-<br />
-2. You can take a look at the source code in the SOURCE folder
-
+2. You can take a look at the source code in the SOURCE folder.
 
 ## Contributors
 1. Tenneti Sudheer Kumar
