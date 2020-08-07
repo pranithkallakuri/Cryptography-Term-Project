@@ -8,6 +8,7 @@
 3. Riddish Deotale
 4. Shivang Shah
 5. Pranith S Kallakuri
+  -- students of BITS Pilani, Hyderabad Campus
 
 #### Note: This software was not developed using github or git, hence their commits are not recorded. This repo serves only as a host for the code of our project.
 
