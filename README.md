@@ -1,4 +1,4 @@
-# Cryptography-Term-Project
+## Cryptography-Term-Project
 Implementation of a Basic Blockchain in Java
 
 # How to run the program
