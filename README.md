@@ -1,6 +1,7 @@
 # Cryptography-Term-Project
 1.Implementation of a Basic Blockchain in Java. <br />
-2.You can take a look at the source code in the SOURCE folder
+<br />
+2. You can take a look at the source code in the SOURCE folder
 
 ## How to run the program
 1. Make sure that the windows pc has java version 13 or higher.
