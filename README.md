@@ -10,7 +10,7 @@
 5. Pranith S Kallakuri<br /><br />
   -- students of BITS Pilani, Hyderabad Campus
 
-#### Note: This software was not developed using github or git, hence everyones contributions and commits are not recorded. This repo serves only as a host for the code of our project.
+#### Note: This software was not developed using github or git, thereofore everyone's contributions and commits are not recorded. This repo serves only as a host for the code of our project.
 
 
 ## How to run the program
