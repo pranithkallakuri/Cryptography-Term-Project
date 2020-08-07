@@ -1,7 +1,17 @@
 # Cryptography-Term-Project
-1.Implementation of a Basic Blockchain in Java. 
+1. Implementation of a Basic Blockchain in Java. 
 <br />
 2. You can take a look at the source code in the SOURCE folder
+
+
+## Contributors
+1. Tenneti Sudheer Kumar
+2. Anany Prakhar
+3. Riddish Deotale
+4. Shivang Shah
+5. Pranith S Kallakuri
+
+#### Note: This software was not developed using github or git, hence their commits are not recorded. This repo serves only as a host for the code of our project.
 
 
 ## How to run the program
