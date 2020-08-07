@@ -1,7 +1,7 @@
-## Cryptography-Term-Project
+# Cryptography-Term-Project
 Implementation of a Basic Blockchain in Java
 
-# How to run the program
+## How to run the program
 1. Make sure that the windows pc has java version 13 or higher.
 2. Open command prompt in admin mode and type the following command: 
 java -jar "file path". It will run BLOCKCHAIN.jar.
@@ -9,7 +9,7 @@ Example: java -jar "C:\Users\anild\Downloads\export methods\runnable jar file\BL
 3. If the program encounters any error during its operation run the executable named SAFEMODE.jar
 
 
-# Steps to compile the blockchain from source. code using Eclipse IDE
+## Steps to compile the blockchain from source. code using Eclipse IDE
 
 
 1. Goto File>Import>General>Archive File and click on next.
